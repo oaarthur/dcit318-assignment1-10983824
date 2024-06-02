@@ -7,7 +7,7 @@ namespace TicketPriceCalculator
         static void Main(string[] args)
         {
             int a;
-            Console.WriteLine("Enter You Age: ");
+            Console.WriteLine("Enter Your Age: ");
             a = Convert.ToInt32(Console.ReadLine());
 
             if(a >= 65 || a <= 12){
