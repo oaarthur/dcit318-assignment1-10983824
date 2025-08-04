@@ -1,0 +1,15 @@
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\bin\Debug\net8.0\gradeCalc.exe
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\bin\Debug\net8.0\gradeCalc.deps.json
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\bin\Debug\net8.0\gradeCalc.runtimeconfig.json
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\bin\Debug\net8.0\gradeCalc.dll
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\bin\Debug\net8.0\gradeCalc.pdb
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.AssemblyInfoInputs.cache
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.AssemblyInfo.cs
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.csproj.CoreCompileInputs.cache
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.sourcelink.json
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.dll
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\refint\gradeCalc.dll
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.pdb
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\gradeCalc.genruntimeconfig.cache
+c:\Users\OWEN\Desktop\dcit318\dcit318-assignment1-10983824\gradeCalc\obj\Debug\net8.0\ref\gradeCalc.dll
